@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/asmdk/slider.camera/templates/.default/style.css" => "1393574338108","/bitrix/components/asmdk/slider.camera/templates/.default/css/camera.css" => "139357434026396",), 'CUR_SEL_CNT' => '300', 'CUR_IE_CNT' => '0'); ?>
