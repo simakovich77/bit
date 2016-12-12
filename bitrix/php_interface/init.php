@@ -8,4 +8,6 @@ function FunctionName(params)
 	//code
 }
 */
+
+if(file_exists($_SERVER["DOCUMENT_ROOT"]."/bitrix/php_interface_include/functions.php");
 ?>
