@@ -2,10 +2,10 @@
 define("BX_USE_MYSQLI", true);
 define("DBPersistent", false);
 $DBType = "mysql";
-$DBHost = "localhost";
-$DBLogin = "root";
-$DBPassword = "toor";
-$DBName = "bitrix";
+$DBHost = "194.135.91.242";
+$DBLogin = "common_vanobtx";
+$DBPassword = "t29TXoMMZ8";
+$DBName = "common_vanobitrix";
 $DBDebug = false;
 $DBDebugToFile = false;
 define("MYSQL_TABLE_TYPE", "INNODB");
@@ -26,4 +26,5 @@ define("BX_FILE_PERMISSIONS", 0644);
 define("BX_DIR_PERMISSIONS", 0755);
 @umask(~BX_DIR_PERMISSIONS);
 define("BX_DISABLE_INDEX_PAGE", true);
+$DBDebug=true; 
 ?>

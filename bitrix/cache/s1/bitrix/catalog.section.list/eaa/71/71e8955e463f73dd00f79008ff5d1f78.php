@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001481485906';
-$dateexpire = '001481489506';
-$ser_content = 'a:2:{s:7:"CONTENT";s:1154:"<div class="bx_sitemap"><ul class="bx_sitemap_ul">
+$datecreate = '001481529318';
+$dateexpire = '001481532918';
+$ser_content = 'a:2:{s:7:"CONTENT";s:1156:"<div class="bx_sitemap"><ul class="bx_sitemap_ul">
 	<li id="bx_1847241719_10"><h2 class="bx_sitemap_li_title"><a href="/e-store/books/10/">Бизнес-литература <span>(3)</span></a></h2></li>
 	<li id="bx_1847241719_11"><h2 class="bx_sitemap_li_title"><a href="/e-store/books/11/">Детская литература <span>(3)</span></a></h2></li>
 	<li id="bx_1847241719_12"><h2 class="bx_sitemap_li_title"><a href="/e-store/books/12/">Компьютеры и Интернет <span>(8)</span></a></h2></li>
